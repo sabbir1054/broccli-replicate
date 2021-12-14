@@ -24,6 +24,7 @@
   top:50vh;
   right: 30px;
   z-index: 1000;
+  color: #ffffff;
 
 }
 .nextBtn:hover {
@@ -40,6 +41,7 @@
   top:50vh;
   left: 30px;
   z-index: 1000;
+  color: #ffffff;
 }
 
 .prevBtn:hover {

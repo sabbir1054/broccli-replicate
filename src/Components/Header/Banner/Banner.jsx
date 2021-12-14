@@ -8,13 +8,15 @@ import Button from '../../Button/Button'
 import NextButton from '../../Button/NextButton'
 import PreviousButton from "../../Button/PreviousButton";
 
+
+
+
+
+
 const Banner = () => {
    
-  
   const settings = {
-   
     arrows: true,
-    
     // autoplay: true,
     // dots: true,
     fade: true,
@@ -24,6 +26,8 @@ const Banner = () => {
     prevArrow: <PreviousButton />,
   };
  
+
+  
   return (
     <>
       <Slider {...settings} className="w-100" id="heroBanner">
@@ -50,8 +54,8 @@ const Banner = () => {
             </Row>
           </Container>
         </div>
-      {/*   <div id="slider2" className={styles.slider2_bg}>
-          <Container id="slider2Content">
+      <div id="slider2" >
+          {/*  <Container id="slider2Content">
             <Row>
               <Col></Col>
               <Col className={styles.slider2_innerContent}>
@@ -71,8 +75,8 @@ const Banner = () => {
               
               </Col>
             </Row>
-          </Container>
-        </div> */}
+          </Container>  */}
+        </div> 
       </Slider>
     </>
   );
