@@ -1,0 +1,39 @@
+
+.slider1_bg{
+    background-image: url('../../../assets/img/HeroSlider/11.jpg');
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+
+}
+.slider1_innerContent,.slider2_innerContent{
+    padding-top: 30vh;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+}
+
+.slider1_innerContent small,.slider2_innerContent small{
+    font-size: 16px;
+  
+}
+.slider1_innerContent h1 ,.slider2_innerContent h1 {
+    font-weight: 700;
+}
+
+.slider1_innerContent p, .slider2_innerContent p{
+    font-size: 18px;
+padding: 10px 0px;
+padding-left: 10px;
+border-left: 1px solid #80B500;
+}
+
+
+.slider2_bg{
+    background-image: url('../../../assets/img/HeroSlider/12.jpg');
+    background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
