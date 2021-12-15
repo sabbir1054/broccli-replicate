@@ -5,7 +5,7 @@
     "oldPrice": 92,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/1.png"
+    "imgUrl": "assets/images/product/1.png"
   },
   {
     "name": "Orange Slice Mixed",
@@ -13,7 +13,7 @@
     "oldPrice": 185,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/2.png"
+    "imgUrl": "assets/images/product/2.png"
   },
   {
     "name": "Fresh Butter Cake",
@@ -21,7 +21,7 @@
     "oldPrice": 180,
     "rating": 4.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/3.png"
+    "imgUrl": "assets/images/product/3.png"
   },
   {
     "name": "Poltry Farm Meat",
@@ -29,7 +29,7 @@
     "oldPrice": 98,
     "rating": 4,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/4.png"
+    "imgUrl": "assets/images/product/4.png"
   },
   {
     "name": "Carrots Group Scal",
@@ -37,7 +37,7 @@
     "oldPrice": 102,
     "rating": 3.8,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/5.png"
+    "imgUrl": "assets/images/product/5.png"
   },
   {
     "name": "Orange Slice Mixed",
@@ -45,7 +45,7 @@
     "oldPrice": 185,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/6.png"
+    "imgUrl": "assets/images/product/6.png"
   },
   {
     "name": "Fresh Butter Cake",
@@ -53,7 +53,7 @@
     "oldPrice": 180,
     "rating": 4.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/7.png"
+    "imgUrl": "assets/images/product/7.png"
   },
   {
     "name": "Poltry Farm Meat",
@@ -61,7 +61,7 @@
     "oldPrice": 98,
     "rating": 4.9,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/8.png"
+    "imgUrl": "assets/images/product/8.png"
   },
   {
     "name": "Orange Fresh Juice",
@@ -69,7 +69,7 @@
     "oldPrice": 92,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/9.png"
+    "imgUrl": "assets/images/product/9.png"
   },
   {
     "name": "Orange Slice Mixed",
@@ -77,7 +77,7 @@
     "oldPrice": 185,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/10.png"
+    "imgUrl": "assets/images/product/10.png"
   },
   {
     "name": "Fresh Butter Cake",
@@ -85,7 +85,7 @@
     "oldPrice": 180,
     "rating": 4.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/11.png"
+    "imgUrl": "assets/images/product/11.png"
   },
   {
     "name": "Poltry Farm Meat",
@@ -93,7 +93,7 @@
     "oldPrice": 98,
     "rating": 4,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/12.png"
+    "imgUrl": "assets/images/product/12.png"
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@
     "oldPrice": 102,
     "rating": 3.8,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/13.png"
+    "imgUrl": "assets/images/product/13.png"
   },
   {
     "id": 2,
@@ -111,7 +111,7 @@
     "oldPrice": 185,
     "rating": 3.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/14.png"
+    "imgUrl": "assets/images/product/14.png"
   },
   {
     "id": 1,
@@ -120,14 +120,15 @@
     "oldPrice": 180,
     "rating": 4.5,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/15.png"
+    "imgUrl": "assets/images/product/15.png"
   },
-  {"id":0,
+  {
+    "id": 0,
     "name": "Poltry Farm Meat",
     "price": 78,
     "oldPrice": 98,
     "rating": 4.9,
     "category": "food",
-    "imgUrl": "/public/assets/images/product/16.png"
+    "imgUrl": "assets/images/product/16.png"
   }
 ]
