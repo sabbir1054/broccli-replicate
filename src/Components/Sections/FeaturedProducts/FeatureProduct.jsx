@@ -1,13 +1,10 @@
 import React from "react";
 import { Card, Col } from "react-bootstrap";
-import { useDispatch } from "react-redux";
 import { addToCart, addToWishlist } from "../../../Redux/slices/productSlice";
-import styles from "./Products.module.css";
-
-const Product = (props) => {
+import styles from "../Products/Products.module.css";
+const FeatureProduct = (props) => {
   const dispatch = useDispatch();
   const product = props.product;
-
   return (
     <>
       <Col>
@@ -44,4 +41,4 @@ const Product = (props) => {
   );
 };
 
-export default Product;
+export default FeatureProduct;

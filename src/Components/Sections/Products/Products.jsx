@@ -5,9 +5,8 @@ import Product from "./Product";
 
 const Products = () => {
   const products = useSelector((state) => state.products.data);
-//   console.log(products);
-    
-    
+  //   console.log(products);
+
   return (
     <Container className="bg-light pb-5">
       <h1 className="py-5 text-center">Our Products</h1>
