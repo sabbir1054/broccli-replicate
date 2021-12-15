@@ -27,7 +27,7 @@ const Banner = () => {
   };
  
 
-  
+
   return (
     <>
       <Slider {...settings} className="w-100" id="heroBanner">
@@ -47,8 +47,6 @@ const Banner = () => {
                   Praesentium fugit facilis placeat quaerat, quam expedita?
                 </p>
                 <Button text={"Explore The Products"}></Button>
-                
-                
               </Col>
               <Col></Col>
             </Row>

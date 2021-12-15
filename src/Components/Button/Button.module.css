@@ -49,6 +49,37 @@
 }
 
 
+.icon{
+  display: inline-block;
+  padding: 15px 20px;
+  font-size: 16px;
+  border: 1px solid #999999;
+  transition: all 0.3s ease-in;
+  position: fixed;
+  top:5vh;
+  right: 30px;
+  z-index: 1000;
+  color: #ffffff;
+  background-color: #80b500;
+}
+.icon2{
+  display: inline-block;
+  padding: 15px 20px;
+  font-size: 16px;
+  border: 1px solid #999999;
+  transition: all 0.3s ease-in;
+  position: fixed;
+  top:20vh;
+  right: 30px;
+  z-index: 1000;
+  color: #ffffff;
+  background-color: #80b500;
+}
+
+
+
+
+
 /* Sweep To Right */
 .hvr_sweep_to_right {
   font-size: 18px;

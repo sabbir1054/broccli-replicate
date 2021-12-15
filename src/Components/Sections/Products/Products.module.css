@@ -1,0 +1,13 @@
+.icon{
+padding: 5px 10px;
+  font-size: 20px;
+  border: 1px solid #80b500;
+  transition: all 0.3s ease-in;
+  z-index: 1000;
+  color: #80b500;
+}
+
+.icon:hover {
+  background-color: #80b500;
+  color: white;
+}

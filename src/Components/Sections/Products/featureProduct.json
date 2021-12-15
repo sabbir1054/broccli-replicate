@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Orange Fresh Juice",
+    "price": 75,
+    "oldPrice": 92,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/1.png"
+  },
+  {
+    "name": "Orange Slice Mixed",
+    "price": 150,
+    "oldPrice": 185,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/2.png"
+  },
+  {
+    "name": "Fresh Butter Cake",
+    "price": 150,
+    "oldPrice": 180,
+    "rating": 4.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/3.png"
+  },
+  {
+    "name": "Poltry Farm Meat",
+    "price": 78,
+    "oldPrice": 98,
+    "rating": 4,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/4.png"
+  },
+  {
+    "name": "Carrots Group Scal",
+    "price": 77,
+    "oldPrice": 102,
+    "rating": 3.8,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/5.png"
+  },
+  {
+    "name": "Orange Slice Mixed",
+    "price": 150,
+    "oldPrice": 185,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/6.png"
+  },
+  {
+    "name": "Fresh Butter Cake",
+    "price": 150,
+    "oldPrice": 180,
+    "rating": 4.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/7.png"
+  },
+  {
+    "name": "Poltry Farm Meat",
+    "price": 78,
+    "oldPrice": 98,
+    "rating": 4.9,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/8.png"
+  },
+  {
+    "name": "Orange Fresh Juice",
+    "price": 75,
+    "oldPrice": 92,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/9.png"
+  },
+  {
+    "name": "Orange Slice Mixed",
+    "price": 150,
+    "oldPrice": 185,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/10.png"
+  },
+  {
+    "name": "Fresh Butter Cake",
+    "price": 150,
+    "oldPrice": 180,
+    "rating": 4.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/11.png"
+  },
+  {
+    "name": "Poltry Farm Meat",
+    "price": 78,
+    "oldPrice": 98,
+    "rating": 4,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/12.png"
+  },
+  {
+    "id": 2,
+    "name": "Carrots Group Scal",
+    "price": 77,
+    "oldPrice": 102,
+    "rating": 3.8,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/13.png"
+  },
+  {
+    "id": 2,
+    "name": "Orange Slice Mixed",
+    "price": 150,
+    "oldPrice": 185,
+    "rating": 3.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/14.png"
+  },
+  {
+    "id": 1,
+    "name": "Fresh Butter Cake",
+    "price": 150,
+    "oldPrice": 180,
+    "rating": 4.5,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/15.png"
+  },
+  {"id":0,
+    "name": "Poltry Farm Meat",
+    "price": 78,
+    "oldPrice": 98,
+    "rating": 4.9,
+    "category": "food",
+    "imgUrl": "/public/assets/images/product/16.png"
+  }
+]
